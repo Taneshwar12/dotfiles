@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = taneshwar12@gmail.com
+	name = Taneshwar Sodhi
